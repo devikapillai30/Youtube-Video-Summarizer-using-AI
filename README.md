@@ -31,17 +31,17 @@ This project automates the process of summarizing YouTube videos using OpenAI's 
 
 ## Usage
 To summarize a YouTube video, run the following command:
-from your_module import youtube_to_mp3, transcribe_audio, summarize
+`from your_module import youtube_to_mp3, transcribe_audio, summarize`
 
 Define the YouTube URL and output directory
-youtube_url = "youtube_url"
-output_dir = "outputs/"
+`youtube_url = "youtube_url"`
+`output_dir = "outputs/"`
 
 Step 1: Download audio from YouTube
-audio_file = youtube_to_mp3(youtube_url, output_dir)
+`audio_file = youtube_to_mp3(youtube_url, output_dir)`
 
 Step 2: Transcribe the audio
-transcripts = transcribe_audio([audio_file])
+`transcripts = transcribe_audio([audio_file])`
 
 Step 3: Summarize the transcriptions
-long_summary, short_summary = summarize(transcripts, system_prompt="Summarize the following text.")
+`long_summary, short_summary = summarize(transcripts, system_prompt="Summarize the following text.")`
