@@ -1,5 +1,5 @@
 # Youtube-Video-Summarizer-using-AI
-![Alt Text](https://www.google.com/imgres?q=youtube%20video%20summarizer&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1200%2F1*cH5i9B9gY-KXZFdLS-usYg.png&imgrefurl=https%3A%2F%2Fmedium.com%2Fgeekculture%2F5-free-tools-to-summarize-youtube-videos-with-gpt-9fbdce33e38e&docid=QP81TEI_zm_44M&tbnid=sCjsj_tyfuHYNM&vet=12ahUKEwilupD0qY-JAxWBFVkFHVO0FKMQM3oECGUQAA..i&w=1200&h=650&hcb=2&ved=2ahUKEwilupD0qY-JAxWBFVkFHVO0FKMQM3oECGUQAA)
+![image](https://github.com/user-attachments/assets/bf220e7a-f293-4663-9310-f74390db0c73)
 
 This project automates the process of summarizing YouTube videos using OpenAI's Whisper for audio transcription and ChatGPT for summarization. The tool efficiently extracts audio from videos, transcribes it, and generates concise summaries.
 
